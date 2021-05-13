@@ -6,7 +6,7 @@ My name is Jorge Soares and I am Brazilian.
 I am an administrator by training with more than 10 years of experience in administrative routines, but I have also always been passionate about technologies. Currently, I study to act as a Full Stack Developer.
 
 
-#### :rocket: :computer: Tech Skills
+### :rocket: :computer: Tech Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeJuniorBSB&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/JorgeJuniorBSB/github-readme-stats)
